@@ -1,2 +1,11 @@
 t@github.com:Josefsosa/js-star-ship.git 
-Test
+.idea/
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+npm-debug.log
+coverage-report
+generators
+KonaCam/
